@@ -1,1 +1,1 @@
-console.log("Rituraj")
+console.log("Rituraj", "test")
